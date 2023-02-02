@@ -1,2 +1,2 @@
-# ML_Mini_Project_CreditCard
+# Creditcard Overdue Prediction
 Machine Learning Mini Project Repository
